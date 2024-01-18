@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: LOCAL-CONFIG
 eureka:
   instance:
     prefer-ip-address: true
