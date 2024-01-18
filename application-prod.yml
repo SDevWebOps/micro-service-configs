@@ -1,1 +1,10 @@
 
+spring:
+  application:
+    name: PROD-CONFIG
+eureka:
+  instance:
+    prefer-ip-address: true
+  cloud:
+    register-with-eureka: true
+    fetch-registry: true
